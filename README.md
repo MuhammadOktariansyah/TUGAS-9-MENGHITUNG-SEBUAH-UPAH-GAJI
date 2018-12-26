@@ -1,0 +1,2 @@
+# TUGAS-9-MENGHITUNG-SEBUAH-UPAH-GAJI
+Tugas algoritma 1
